@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Hasan</h1>
 <h3 align="center">Data Science | Learning Stage</h3>
 
-![](https://dcbadge.limes.pink/api/shield/459417957861294101)
+
 <p align="left"> <a href="https://twitter.com/fhpavel" target="blank"><img src="https://img.shields.io/twitter/follow/fhpavel?logo=twitter&style=for-the-badge" alt="fhpavel" /></a> </p>
 
 - 📫 How to reach me **add me on Discord.**
