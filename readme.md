@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/fhpavel" target="blank"><img src="https://img.shields.io/twitter/follow/fhpavel?logo=twitter&style=for-the-badge" alt="fhpavel" /></a> </p>
 
-- 📫 How to reach me **add me on Discord.**
+- 📫 How to reach me? **add me on Discord.** `faisalhasan`
 
-- ⚡ Fun fact **I love songs and coffee**
+- ⚡ **I love songs and green tea**
 
 🌟 **Aspiring Data Scientist | Curious Learner | Passionate Explorer**
 
